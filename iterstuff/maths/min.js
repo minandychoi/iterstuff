@@ -1,0 +1,1 @@
+export const min = (iterable) => Math.min(...iterable);
